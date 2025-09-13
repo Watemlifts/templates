@@ -13,16 +13,16 @@
     "preview_image_url": "https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/33bbbf02-eda2-4d3f-b244-c27a280f3900/public"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "12.1.0",
+    "@astrojs/cloudflare": "12.6.6",
     "@astrojs/mdx": "4.0.3",
     "@astrojs/rss": "4.0.11",
     "@astrojs/sitemap": "3.2.1",
-    "astro": "5.1.3",
+    "astro": "5.13.7",
     "typescript": "5.7.2"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20250204.0",
-    "wrangler": "3.107.3"
+    "wrangler": "4.36.0"
   },
   "scripts": {
     "astro": "astro",
