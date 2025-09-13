@@ -22,12 +22,12 @@
     "@remix-run/react": "2.15.2",
     "@remix-run/server-runtime": "2.15.2",
     "isbot": "5.1.17",
-    "nanoid": "5.0.8",
+    "nanoid": "5.0.9",
     "react": "18.3.1",
     "react-dom": "18.3.1"
   },
   "devDependencies": {
-    "@cloudflare/vitest-pool-workers": "0.5.38",
+    "@cloudflare/vitest-pool-workers": "0.9.0",
     "@cloudflare/workers-types": "^4.20250204.0",
     "@remix-run/dev": "2.15.2",
     "@types/react": "18.3.12",
@@ -35,13 +35,13 @@
     "@typescript-eslint/eslint-plugin": "8.18.1",
     "@typescript-eslint/parser": "8.18.1",
     "autoprefixer": "10.4.20",
-    "eslint": "9.19.0",
+    "eslint": "9.35.0",
     "postcss": "8.4.49",
     "tailwindcss": "3.4.17",
     "typescript": "5.7.2",
-    "vite": "5.4.14",
+    "vite": "5.4.20",
     "vite-tsconfig-paths": "5.1.4",
-    "vitest": "2.1.8",
+    "vitest": "2.1.9",
     "wrangler": "3.107.3"
   },
   "engines": {
