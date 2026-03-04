@@ -14,7 +14,7 @@
     "preview_image_url": "https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/fc7b4b62-442b-4769-641b-ad4422d74300/public"
   },
   "dependencies": {
-    "hono": "4.7.1",
+    "hono": "4.12.4",
     "react": "19.0.0",
     "react-dom": "19.0.0"
   },
